@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué es principalmente el Pensamiento Computacional?",
+    "options": [
+      "La habilidad para escribir código rápido en lenguajes de programación complejos.",
+      "Un método para resolver problemas que permite formular soluciones estructuradas que pueden ser ejecutadas por una computadora o persona.",
+      "Saber cómo ensamblar y reparar el hardware físico de una computadora.",
+      "Aprender a utilizar programas de oficina como procesadores de texto y hojas de cálculo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "El pensamiento computacional es una habilidad para resolver problemas utilizando técnicas derivadas de la computación, que nos permite organizar la información y estructurar pasos lógicos aplicables en cualquier disciplina."
+  },
+  {
+    "id": 2,
+    "question": "¿Cuáles son los cuatro pilares fundamentales del Pensamiento Computacional?",
+    "options": [
+      "Teclado, Pantalla, CPU y Memoria RAM.",
+      "HTML, CSS, JavaScript y Python.",
+      "Descomposición, Reconocimiento de Patrones, Abstracción y Diseño de Algoritmos.",
+      "Internet, Redes Sociales, Servidores e Inteligencia Artificial."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Los cuatro pilares esenciales que estructuran el pensamiento computacional son: descomposición (dividir), reconocimiento de patrones (buscar similitudes), abstracción (filtrar detalles) y diseño de algoritmos (paso a paso)."
+  },
+  {
+    "id": 3,
+    "question": "Si estás programando un videojuego y decides programar por separado el movimiento del jugador, el puntaje y el sonido, ¿qué pilar estás aplicando?",
+    "options": [
+      "Abstracción.",
+      "Diseño de Algoritmos.",
+      "Reconocimiento de Patrones.",
+      "Descomposición."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Estás aplicando la Descomposición, ya que estás dividiendo el problema general (el videojuego completo) en partes más pequeñas y manejables (movimiento, puntaje y sonido) para desarrollarlas individualmente."
+  },
+  {
+    "id": 4,
+    "question": "Un médico analiza los síntomas de un paciente y recuerda que otros pacientes con síntomas similares tenían gripe. ¿Qué pilar del pensamiento computacional utiliza?",
+    "options": [
+      "Reconocimiento de Patrones.",
+      "Abstracción.",
+      "Codificación.",
+      "Diseño de Algoritmos."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Utiliza el Reconocimiento de Patrones, porque identifica similitudes o regularidades en los síntomas de pacientes actuales en comparación con casos tratados en el pasado para emitir un diagnóstico."
+  },
+  {
+    "id": 5,
+    "question": "Un mapa del metro simplificado que solo muestra estaciones y conexiones (omitiendo calles, edificios y árboles) es un excelente ejemplo de:",
+    "options": [
+      "Descomposición.",
+      "Abstracción.",
+      "Algoritmo cíclico.",
+      "Depuración."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Es un ejemplo de Abstracción. Se eliminan los detalles geográficos y urbanos complejos e irrelevantes para el viaje, dejando únicamente la información esencial (estaciones y rutas) que el usuario necesita."
+  },
+  {
+    "id": 6,
+    "question": "¿Qué es un Algoritmo?",
+    "options": [
+      "Un componente electrónico para procesar gráficos 3D.",
+      "Una lista desordenada de ideas creativas.",
+      "Una serie de pasos ordenados, precisos y finitos para resolver un problema o completar una tarea.",
+      "Un programa que detecta y elimina virus informáticos."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Un algoritmo es una secuencia de instrucciones paso a paso, lógicas y finitas, diseñadas con precisión para obtener un resultado o resolver un problema específico."
+  },
+  {
+    "id": 7,
+    "question": "En el contexto de la programación, ¿qué significa 'Depurar' (o Debugging)?",
+    "options": [
+      "Formatear el disco duro para limpiar el computador.",
+      "Encontrar y corregir errores en un algoritmo o código.",
+      "Escribir comentarios en el código para explicarlo.",
+      "Subir el programa terminado a internet."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Depurar significa buscar, diagnosticar y corregir errores ('bugs') en el algoritmo o código de un programa para que funcione exactamente como se espera."
+  },
+  {
+    "id": 8,
+    "question": "Estás haciendo un algoritmo para cepillarte los dientes. Si el paso dice: 'Cepillar los dientes de arriba hacia abajo 10 veces', ¿qué tipo de estructura estás utilizando?",
+    "options": [
+      "Una estructura condicional (Si... Entonces).",
+      "Una estructura repetitiva o bucle (Repetir/Loop).",
+      "Una estructura aleatoria.",
+      "Una estructura de almacenamiento."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Es un Bucle o Estructura Repetitiva, ya que se repite la acción de cepillar una cantidad definida de veces (10) antes de continuar con el siguiente paso."
+  },
+  {
+    "id": 9,
+    "question": "Si en un algoritmo de un semáforo inteligente escribimos: 'SI hay autos esperando en la calle B, ENTONCES cambia la luz a verde', estamos implementando:",
+    "options": [
+      "Una estructura condicional (Toma de decisiones).",
+      "Un bucle infinito.",
+      "Una descomposición de sistema.",
+      "Un patrón matemático."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Es una Estructura Condicional (Toma de decisiones). El semáforo evalúa una condición ('SI hay autos esperando') y ejecuta una acción específica en función de si se cumple o no."
+  },
+  {
+    "id": 10,
+    "question": "¿Por qué es importante la Abstracción al resolver un problema complejo?",
+    "options": [
+      "Porque nos permite ver todos los detalles minuciosos del problema a la vez.",
+      "Porque nos ayuda a enfocarnos en lo verdaderamente esencial sin distraernos con la complejidad de los detalles irrelevantes.",
+      "Porque permite dividir el problema en 10 partes idénticas.",
+      "Porque elimina la necesidad de escribir un algoritmo al final."
+    ],
+    "correctAnswer": 1,
+    "explanation": "La abstracción es vital porque reduce la complejidad mental. Al ocultar o ignorar detalles secundarios, podemos diseñar soluciones sencillas, claras y eficaces enfocadas en el núcleo del problema."
+  },
+  {
+    "id": 11,
+    "question": "Identifica cuál de las siguientes opciones describe un PATRÓN en la vida cotidiana:",
+    "options": [
+      "El Sol sale por el Este cada mañana.",
+      "Que caiga un rayo en un árbol específico hoy a las 3:00 PM.",
+      "Ganar la lotería nacional.",
+      "Un tropiezo accidental al caminar en la calle."
+    ],
+    "correctAnswer": 0,
+    "explanation": "La salida del Sol por el Este cada mañana es una regularidad cíclica y predecible (un patrón de rotación terrestre) que ocurre de manera constante."
+  },
+  {
+    "id": 12,
+    "question": "Queremos programar un robot para que haga el aseo de una casa. ¿Cuál de estos pasos representa una DESCOMPOSICIÓN adecuada?",
+    "options": [
+      "Decirle al robot: '¡Limpia la casa ahora!'",
+      "Dividir el aseo en: 1) Barrer la sala, 2) Limpiar las ventanas de los cuartos, 3) Trapear la cocina.",
+      "Comprar una aspiradora más cara para que el robot trabaje mejor.",
+      "Programar al robot para que baile mientras limpia."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dividir el quehacer general en tareas individuales por habitación (barrer sala, limpiar ventanas, trapear cocina) es aplicar la descomposición, simplificando la tarea del robot."
+  },
+  {
+    "id": 13,
+    "question": "¿Qué representa un diagrama de flujo en informática?",
+    "options": [
+      "Un gráfico que muestra cuánta memoria consume un archivo.",
+      "La representación visual y gráfica de los pasos de un algoritmo.",
+      "Una lista de contraseñas seguras.",
+      "Un cable de conexión de red local."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Un diagrama de flujo es la representación gráfica de un algoritmo. Utiliza figuras geométricas (óvalos, rectángulos, rombos) conectadas por flechas para mostrar la secuencia lógica del proceso."
+  },
+  {
+    "id": 14,
+    "question": "¿Cuál de las siguientes afirmaciones sobre los algoritmos es CORRECTA?",
+    "options": [
+      "Solo las computadoras pueden ejecutar algoritmos.",
+      "Un algoritmo puede tener infinitos pasos y nunca terminar.",
+      "Los seres humanos realizamos algoritmos todos los días de forma automática (ej. atarse los zapatos o ducharse).",
+      "Un algoritmo no necesita ser ordenado para funcionar."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Los seres humanos usamos algoritmos continuamente. Cualquier proceso cotidiano estructurado y secuencial que realizamos paso a paso para lograr un fin es, en esencia, un algoritmo."
+  },
+  {
+    "id": 15,
+    "question": "¿Por qué el Pensamiento Computacional es útil para estudiantes que no planean ser ingenieros de sistemas?",
+    "options": [
+      "Porque les enseña a pensar de manera lógica y ordenada para estructurar soluciones a cualquier problema de la vida real.",
+      "Porque les obliga a comprar una computadora de última generación.",
+      "Porque les enseña a hackear contraseñas de redes sociales.",
+      "Porque es un requisito para navegar por internet."
+    ],
+    "correctAnswer": 0,
+    "explanation": "El pensamiento computacional es una habilidad transversal para la vida. Desarrolla el pensamiento crítico, la lógica, la organización y la resolución sistemática de problemas en cualquier área profesional o cotidiana."
+  }
+]

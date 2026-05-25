@@ -1,0 +1,138 @@
+[
+  {
+    "id": "descomposicion",
+    "title": "Descomposición",
+    "subtitle": "Divide y vencerás",
+    "icon": "mdi-sitemap",
+    "color": "primary",
+    "gradient": "linear-gradient(135deg, #00f0ff 0%, #0072ff 100%)",
+    "shortDescription": "Consiste en romper un problema complejo en partes más pequeñas y fáciles de entender y resolver.",
+    "definition": "La descomposición es el proceso de descomponer un problema o sistema complejo en partes más pequeñas y manejables. Resolver partes individuales pequeñas es mucho más sencillo que tratar de abordar un problema gigantesco de una sola vez.",
+    "realWorldExample": "Piensa en un videojuego de carreras de autos. En lugar de crearlo como una sola pieza masiva, los programadores lo descomponen en partes: 1) El control del carro por el jugador, 2) Los gráficos de la pista, 3) El comportamiento de los oponentes de IA, 4) El marcador de tiempo y velocidad, 5) La música del juego.",
+    "steps": [
+      {
+        "num": "1",
+        "title": "Identificar el problema principal",
+        "desc": "Definir claramente qué es lo que queremos lograr o solucionar en su totalidad."
+      },
+      {
+        "num": "2",
+        "title": "Subdividir en tareas",
+        "desc": "Separar el problema en componentes lógicos autónomos e independientes."
+      },
+      {
+        "num": "3",
+        "title": "Resolver cada subtarea",
+        "desc": "Abordar y solucionar una por una las partes identificadas, reduciendo la carga cognitiva."
+      },
+      {
+        "num": "4",
+        "title": "Integrar las soluciones",
+        "desc": "Unir las piezas individuales resueltas para obtener la solución al problema original completo."
+      }
+    ],
+    "quizIdea": "Si tuvieras que organizar un festival de tecnología escolar, ¿cómo lo descompondrías? Tareas: Comida, Charlas, Equipos informáticos, Invitaciones."
+  },
+  {
+    "id": "patrones",
+    "title": "Reconocimiento de Patrones",
+    "subtitle": "Buscar similitudes",
+    "icon": "mdi-hub",
+    "color": "secondary",
+    "gradient": "linear-gradient(135deg, #bd00ff 0%, #ff007f 100%)",
+    "shortDescription": "Identificar similitudes, tendencias o características repetitivas entre diferentes problemas o dentro del mismo problema.",
+    "definition": "El reconocimiento de patrones consiste en buscar similitudes o patrones compartidos entre problemas. Al identificar estas repeticiones, podemos aplicar soluciones que ya nos funcionaron en el pasado para resolver problemas nuevos similares.",
+    "realWorldExample": "Si sabes cómo resolver una ecuación como 2x + 5 = 15, puedes aplicar el mismo patrón de resolución para resolver 3y + 6 = 18. El patrón consiste en: restar la constante en ambos lados y luego dividir por el coeficiente de la variable.",
+    "steps": [
+      {
+        "num": "1",
+        "title": "Analizar datos anteriores",
+        "desc": "Observar problemas similares que hayamos resuelto en el pasado o estudiar casos de éxito."
+      },
+      {
+        "num": "2",
+        "title": "Identificar repeticiones",
+        "desc": "Detectar qué secuencias de eventos, números o comportamientos ocurren una y otra vez."
+      },
+      {
+        "num": "3",
+        "title": "Establecer una regla general",
+        "desc": "Definir un método consistente basado en la regularidad observada."
+      },
+      {
+        "num": "4",
+        "title": "Predecir y simplificar",
+        "desc": "Usar la regla del patrón para acelerar la resolución del nuevo problema."
+      }
+    ],
+    "quizIdea": "¿Qué patrón sigues al resolver una sopa de letras? Buscar la primera letra de la palabra, luego examinar en círculo sus letras adyacentes."
+  },
+  {
+    "id": "abstraccion",
+    "title": "Abstracción",
+    "subtitle": "Filtrar lo innecesario",
+    "icon": "mdi-filter-variant",
+    "color": "accent",
+    "gradient": "linear-gradient(135deg, #39ff14 0%, #10b981 100%)",
+    "shortDescription": "Ignorar los detalles irrelevantes o secundarios y centrarse únicamente en la información verdaderamente importante para resolver el problema.",
+    "definition": "La abstracción consiste en ocultar la complejidad innecesaria para enfocarse en los aspectos esenciales del problema. Nos permite crear modelos simplificados de la realidad para poder trabajar sobre ellos de manera eficiente.",
+    "realWorldExample": "El mapa del metro o sistema de autobuses de una ciudad. No muestra las curvas reales de las calles, ni los árboles, ni los semáforos, porque esa información no es útil para viajar en metro. Solo muestra las estaciones y las líneas que las conectan. Eso es abstracción.",
+    "steps": [
+      {
+        "num": "1",
+        "title": "Clasificar la información",
+        "desc": "Hacer una lista de toda la información disponible del problema."
+      },
+      {
+        "num": "2",
+        "title": "Separar lo vital de lo accesorio",
+        "desc": "Preguntarse: 'Si elimino este detalle, ¿aún puedo resolver el problema?' Si la respuesta es sí, se descarta."
+      },
+      {
+        "num": "3",
+        "title": "Crear un modelo simplificado",
+        "desc": "Representar el problema únicamente con sus variables clave."
+      },
+      {
+        "num": "4",
+        "title": "Resolver en base al modelo",
+        "desc": "Construir la solución sobre la estructura simplificada sin distraerse con la complejidad de fondo."
+      }
+    ],
+    "quizIdea": "Al dibujar un monigote (cara redonda y palitos para brazos y piernas), estás haciendo una abstracción de un ser humano real."
+  },
+  {
+    "id": "algoritmos",
+    "title": "Diseño de Algoritmos",
+    "subtitle": "El paso a paso lógico",
+    "icon": "mdi-arrow-decision-auto",
+    "color": "primary",
+    "gradient": "linear-gradient(135deg, #00f0ff 0%, #00d2ff 100%)",
+    "shortDescription": "Crear una serie de instrucciones lógicas, ordenadas y precisas para resolver el problema o realizar una tarea.",
+    "definition": "Un algoritmo es un conjunto ordenado e instrucciones paso a paso para resolver un problema. En programación, los algoritmos se traducen a código de computadora para que la máquina ejecute las instrucciones exactamente como fueron planificadas.",
+    "realWorldExample": "Una receta de cocina. Tiene una lista ordenada de pasos: '1) Precalentar el horno, 2) Batir la harina, 3) Agregar los huevos...'. Si cambias el orden de los pasos (ej: hornear antes de mezclar), el resultado fallará. Las computadoras necesitan esta precisión exacta.",
+    "steps": [
+      {
+        "num": "1",
+        "title": "Definir inicio y fin",
+        "desc": "Un algoritmo siempre debe tener un punto de partida claro y terminar con un resultado final exitoso."
+      },
+      {
+        "num": "2",
+        "title": "Escribir pasos secuenciales",
+        "desc": "Detallar las acciones de forma ordenada e inequívoca."
+      },
+      {
+        "num": "3",
+        "title": "Añadir condiciones (Si... Entonces)",
+        "desc": "Tomar decisiones lógicas basadas en variables (ej: 'Si llueve, abre el paraguas, de lo contrario, déjalo cerrado')."
+      },
+      {
+        "num": "4",
+        "title": "Probar y corregir (Depuración)",
+        "desc": "Seguir los pasos a mano para asegurar que se llega a la solución esperada sin errores."
+      }
+    ],
+    "quizIdea": "El GPS de tu celular diseña un algoritmo cuando calcula la ruta más rápida hacia un destino y te da indicaciones paso a paso."
+  }
+]
